@@ -4,4 +4,8 @@ shell-utils is a collection of scripts and/or utilities for computer administrat
 The whole set is released under GPL V2 license. 
 
 - prep_chroot_user.sh
-a scripts to set a chrooted user in few seconds. 
+a script to set a chrooted user in few seconds.
+- docker_repulisti.sh
+a script to reduce the space used by docker. Please read before to use. 
+
+
